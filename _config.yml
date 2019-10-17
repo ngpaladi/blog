@@ -1,1 +1,8 @@
+title: Noah's Blog
+author: Noah Paladino
+email: noah@noahpaladino.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  A blog about everything and nothing.
+
+
 remote_theme: ngpaladi/minima
