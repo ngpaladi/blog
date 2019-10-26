@@ -4,5 +4,13 @@ email: noah@noahpaladino.com
 description: > # this means to ignore newlines until "show_excerpts:"
   A blog about everything and nothing.
 
+texture:
+  title: Noah Paladino
+  tagline: A blog about everything and nothing.
+  date_format: "%b %-d, %Y"
 
-remote_theme: ngpaladi/minima
+  social_links:
+    twitter: noahpaladino
+    github:  ngpaladi
+
+remote_theme: ngpaladi/texture
