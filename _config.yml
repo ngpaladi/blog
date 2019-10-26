@@ -1,3 +1,5 @@
+remote_theme: ngpaladi/texture
+
 title: Noah's Blog
 author: Noah Paladino
 email: noah@noahpaladino.com
@@ -8,9 +10,9 @@ texture:
   title: Noah Paladino
   tagline: A blog about everything and nothing.
   date_format: "%b %-d, %Y"
+  style: black
 
   social_links:
     twitter: noahpaladino
     github:  ngpaladi
 
-remote_theme: ngpaladi/texture
