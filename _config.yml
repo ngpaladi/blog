@@ -6,7 +6,6 @@ texture:
   date_format: "%b %-d, %Y"
   style: black
   show_excerpts: true
-  showNav: true
   
   social_links:
     twitter: noahpaladino
